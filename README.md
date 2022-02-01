@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alim1919
-- 👀 I’m interested in python and javascript and wordpress and SEO
+- 👀 I’m interested in python, javascript, wordpress and SEO
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: alimohammadian1919@gmail.com
 
